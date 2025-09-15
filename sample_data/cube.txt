@@ -1,0 +1,14 @@
+# Cubo unitario - 8 vértices
+# Formato: x y z (una coordenada por línea)
+
+# Cara frontal (z = -1)
+-1 -1 -1
+ 1 -1 -1
+ 1  1 -1
+-1  1 -1
+
+# Cara trasera (z = 1)
+-1 -1  1
+ 1 -1  1
+ 1  1  1
+-1  1  1

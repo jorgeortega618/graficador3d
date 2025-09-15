@@ -1,0 +1,11 @@
+# Pirámide cuadrada
+# Base cuadrada en z = -1, vértice superior en z = 2
+
+# Base cuadrada
+-1.0, -1.0, -1.0
+ 1.0, -1.0, -1.0
+ 1.0,  1.0, -1.0
+-1.0,  1.0, -1.0
+
+# Vértice superior
+ 0.0,  0.0,  2.0
