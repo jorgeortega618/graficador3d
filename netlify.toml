@@ -26,4 +26,4 @@
 [[redirects]]
   from = "/*"
   to = "/public/index.html"
-  status = 404
+  status = 200
